@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Itzik Pazuelo</h1>
 <h3 align="left">Full Stack developer (with inclination to frontend), Technical Support Engineer and Data Analyst</h3>
 <br/>
-
+<h3 align="left">Connect with me:</h3>
 - 🔭 I’m currently working on **Local newspaper site with headless CMS** - project is at inital stage so repo is still private...
 
 - 👨‍💻 check out my portfolio website at [https://portfolio-website-itpazu.vercel.app/](https://portfolio-website-itpazu.vercel.app/)
@@ -9,7 +9,12 @@
 - 📫 Email me to **itpazu@gmail.com**
 
 <b/>
-<h3 align="left">Connect with me:</h3>
+
+
+https://github.com/itpazu/itpazu/assets/61510125/65ba9ddc-ad17-4ec7-a17a-1aea80c32a31
+
+
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/itzik-pazuelo-16404b8a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/itzik-pazuelo-16404b8a/" height="30" width="40" /></a>
 </p>
